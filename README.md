@@ -3,18 +3,18 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>AI and Machine Learning</b>
-   - Handwritten Digit Recognition using CNN
+   - [Handwritten Digit Recognition using CNN](https://github.com/Boristakam/Handwritten-Digit-Recognision-Model)
  
 
 <h2>🎨 Portrait Painting</h2>
 
 - <b>Latest Paintings</b>
-  - Celebrities, Online Personalities, Friends and Family 
+  - [Celebrities, Online Personalities, Friends and Family] 
 - <b>Commisions and gifts</b>
-  - Wedding painting 
+  - [Wedding painting] 
 - <b>Competitions and Exhibitions</b>
-  - Sky - Portrait Artist of the Year
-  - Royal Society Exibitions 
+  - [Sky - Portrait Artist of the Year]
+  - [Royal Society Exibitions] 
 
 <h2>🏃‍♂️ Sports and Fitness</h2>
 
