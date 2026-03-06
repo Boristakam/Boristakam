@@ -2,14 +2,21 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Handwritten Digit Recognition using CNN</b>
+- <b>AI and Machine Learning</b>
+   - Handwritten Digit Recognition using CNN
  
 
+<h2>🎨 Portrait Painting</h2>
 
-<h2>🎨 Portrait Paintings</h2>
+- <b>Latest Paintings</b>
+  - Celebrities, Online Personalities, Friends and Family 
+- <b>Commisions and gifts</b>
+  - Wedding painting 
+- <b>Competitions and Exhibitions</b>
+  - Sky - Portrait Artist of the Year
+  - Royal Society Exibitions 
 
-- <b>Sky - Portrait Artist of the Year</b>
-
+<h2>🏃‍♂️ Sports and Fitness</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
