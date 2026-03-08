@@ -10,7 +10,7 @@
 <h2>🎨 Portrait Painting</h2>
 
 - <b>Latest Paintings</b>
-  - [Celebrities, Online Personalities, Friends and Family] 
+  - [Celebrities, Online Personalities, Friends and Family](https://github.com/Boristakam/Portrait-Painting-Portfolio) 
 - <b>Commisions and gifts</b>
   - [Wedding painting] 
 - <b>Competitions and Exhibitions</b>
