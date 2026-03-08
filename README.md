@@ -13,7 +13,7 @@
 - <b>Commisions and gifts</b>
   - [Wedding painting] 
 - <b>Competitions and Exhibitions</b>
-  - [Sky - Portrait Artist of the Year]
+  - [Sky Arts - Portrait Artist of the Year](https://github.com/Boristakam/Sky-Arts-Portrait-Artist-2019)
   - [Royal Society Exibitions] 
 
 <h2>🏃‍♂️ Sports and Fitness</h2>
