@@ -18,7 +18,7 @@
 
 <h2>🏃‍♂️ Sports and Fitness</h2>
 
-  - [Sports and Fitness]()
+  - [Sports and Fitness](https://github.com/Boristakam/Sports-and-Fitness/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
