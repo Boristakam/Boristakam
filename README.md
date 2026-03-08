@@ -11,7 +11,7 @@
 
 - <b>Latest Paintings</b>
   - [Celebrities, Online Personalities, Friends and Family](https://github.com/Boristakam/Portrait-Painting-Portfolio) 
-  - [Commisions and gifts]()
+  - [Commisions and gifts](https://github.com/Boristakam/Commissioned-Works-and-Gifts)
 - <b>Competitions and Exhibitions</b>
   - [Sky Arts - Portrait Artist of the Year](https://github.com/Boristakam/Sky-Arts-Portrait-Artist-2019)
   - [Royal Society Exibitions]
