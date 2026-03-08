@@ -4,7 +4,8 @@
 
 - <b>AI and Machine Learning</b>
    - [Handwritten Digit Recognition using CNN](https://github.com/Boristakam/Handwritten-Digit-Recognision-Model)
- 
+
+<br>
 
 <h2>🎨 Portrait Painting</h2>
 
@@ -14,7 +15,9 @@
   - [Wedding painting] 
 - <b>Competitions and Exhibitions</b>
   - [Sky Arts - Portrait Artist of the Year](https://github.com/Boristakam/Sky-Arts-Portrait-Artist-2019)
-  - [Royal Society Exibitions] 
+  - [Royal Society Exibitions]
+ 
+<br> 
 
 <h2>🏃‍♂️ Sports and Fitness</h2>
 
