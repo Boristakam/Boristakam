@@ -14,7 +14,7 @@
   - [Commisions and gifts](https://github.com/Boristakam/Commissioned-Works-and-Gifts)
 - <b>Competitions and Exhibitions</b>
   - [Sky Arts - Portrait Artist of the Year](https://github.com/Boristakam/Sky-Arts-Portrait-Artist-2019)
-  - [Royal Society Exibitions]
+  - [Royal Society Exibitions](https://github.com/Boristakam/Royal-Society-Exhibitions)
  
 <br> 
 
