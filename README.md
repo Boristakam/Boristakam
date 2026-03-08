@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development</h2>
 
+- <b>Work Projects</b>
+   - [insert projects]
 - <b>AI and Machine Learning</b>
    - [Handwritten Digit Recognition using CNN](https://github.com/Boristakam/Handwritten-Digit-Recognision-Model)
 
