@@ -6,7 +6,7 @@
    - [Handwritten Digit Recognition using CNN](https://github.com/Boristakam/Handwritten-Digit-Recognision-Model)
      
 - <b>Udemy Courses</b>
-   - [C++ Programming](https://github.com/Boristakam/Handwritten-Digit-Recognision-Model)
+   - [C++ Programming](https://github.com/Boristakam/Udemy-Cpp-Learning)
 
 
 <h2>🎨 Portrait Painting</h2>
