@@ -7,6 +7,7 @@
      
 - <b>Udemy Courses</b>
    - [C++ Programming](https://github.com/Boristakam/Udemy-Cpp-Learning)
+   - [Self Driving Car | Deep Learning | OpenCV](https://github.com/Boristakam/Self-Driving-Car-Deep-Learning-OpenCV)
 
 
 <h2>🎨 Portrait Painting</h2>
