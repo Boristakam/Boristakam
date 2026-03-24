@@ -5,8 +5,9 @@
 - <b>AI and Machine Learning</b>
    - [Handwritten Digit Recognition using CNN](https://github.com/Boristakam/Handwritten-Digit-Recognision-Model)
      
-- <b>Udemy Courses</b>
-   - [C++ Programming](https://github.com/Boristakam/Udemy-Cpp-Learning)
+- <b>Programming Courses</b>
+   - [C++](https://github.com/Boristakam/Udemy-Cpp-Learning)
+   - [Python](https://github.com/Boristakam/Python-Curriculum)
 
 
 <h2>🎨 Portrait Painting</h2>
