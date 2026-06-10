@@ -17,7 +17,7 @@
    
 - **Infrastructure Tools:**
    - [HTML & CCS](https://github.com/Boristakam/HTML-and-CCS/blob/main/README.md)
-   - [JavaScript]()
+   - [JavaScript](https://github.com/Boristakam/JavaScript)
    - [Docker]()
 
 <br>
