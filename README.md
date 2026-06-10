@@ -1,4 +1,4 @@
-<h1>Hi, I'm Boris! <br/><a href="">Software Engineer</a> <a href="https://www.instagram.com/boris.fineart/?hl=en">and Portrait Painter</a></h1>
+<h1>Hi, I'm Boris! <br/><a href="">Software Engineer</a><a href="https://www.instagram.com/boris.fineart/?hl=en">, Portrait Painter</a> and Hybrid Athlete</h1>
 
 <h2>👨‍💻 Software Development</h2>
 
