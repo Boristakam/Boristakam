@@ -2,24 +2,27 @@
 
 <h2>👨‍💻 Software Development</h2>
 
-- <b>AI and Machine Learning</b>
+### Projects
+- **AI and Machine Learning:**
    - [Handwritten Digit Recognition using CNN](https://github.com/Boristakam/Handwritten-Digit-Recognision-Model)
      
-- <b>Backend Engineering</b>
+- **Backend Engineering:**
    - [RESTful API for Campaign Marketing](https://github.com/Boristakam/API-Design-Backend-Architecture)
+
      
-- <b>Programming Courses</b>
+### Courses
+- **Programming:**
    - [C++](https://github.com/Boristakam/Udemy-Cpp-Learning)
    - [Python](https://github.com/Boristakam/Python-Curriculum)
    
-- <b>Infrastructure Tools Courses</b>
+- **Infrastructure Tools:**
    - [HTML & CCS]()
    - [JavaScript]()
    - [Docker]()
-  
 
+<br>
 
-<h2>🎨 Portrait Painting</h2>
+## 🎨 Portrait Painting
 
 - <b>Latest Paintings</b>
   - [Celebrities, Online Personalities, Friends and Family](https://github.com/Boristakam/Portrait-Painting-Portfolio) 
@@ -28,12 +31,15 @@
   - [Sky Arts - Portrait Artist of the Year](https://github.com/Boristakam/Sky-Arts-Portrait-Artist-2019)
   - [Royal Society Exibitions](https://github.com/Boristakam/Royal-Society-Exhibitions)
  
+<br>
 
-<h2>🏃‍♂️ Sports and Fitness</h2>
+## 🏃‍♂️ Sports and Fitness
 
   - [Sports and Fitness](https://github.com/Boristakam/Sports-and-Fitness/tree/main)
 
-<h2> 🤳 Connect with me:</h2>
+<br>
+
+## 🤳 Connect with me:
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
