@@ -16,7 +16,7 @@
    - [Python](https://github.com/Boristakam/Python-Curriculum)
    
 - **Infrastructure Tools:**
-   - [HTML & CCS](https://github.com/Boristakam/HTML-and-CCS/blob/main/README.md)
+   - [HTML & CSS](https://github.com/Boristakam/HTML-and-CCS/blob/main/README.md)
    - [JavaScript](https://github.com/Boristakam/JavaScript)
    - [Docker](https://github.com/Boristakam/Docker)
 
